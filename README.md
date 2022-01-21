@@ -85,8 +85,10 @@ Execute in the `BlurMPI` folder:
 
 ## Sample
 
+Here we can observe the original 720px image before applying the filter
+
 ![alt text](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Results/sample_image_input.jpeg)
 
-Here we can observe a sample, obtained when applied the gaussian blur filter with a kernel of size 7 to a 720px image
+Now we can observe the resultating image obtained when applied the gaussian blur filter with a kernel of size 7
 
 ![alt text](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Results/sample_image_output.jpeg)
