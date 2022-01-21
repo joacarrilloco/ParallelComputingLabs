@@ -1,6 +1,6 @@
 # Blur effect
 
-In this project you will find different implementations of blur effect applied to images in several formats, based on Gaussian Kernel
+In this project you will find different implementations of blur effect applied to images in several formats, based on Gaussian Kernel. For further interest reffer to the [project papaer](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Informe%20General.pdf)
 
 The directory presents the following structure:
 
@@ -89,6 +89,6 @@ Here we can observe the original 720px image before applying the filter
 
 ![alt text](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Results/sample_image_input.jpeg)
 
-Now we can observe the resultating image obtained when applying the gaussian blur filter with a kernel of size 7
+Now we can observe the resultating image obtained when applying the Gaussian Kernel with a Kernel of size 7
 
 ![alt text](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Results/sample_image_output.jpeg)
