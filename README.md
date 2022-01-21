@@ -1,6 +1,6 @@
 # Blur effect
 
-In this project you will find different implementations of blur effect applied to images in several formats, based on Gaussian Kernel. For further interest reffer to the [project papaer](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Informe%20General.pdf)
+In this project you will find different implementations of blur effect applied to images in several formats, based on Gaussian Kernel. For further interest reffer to the [project papaer](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Informe%20General.pdf) ( in Spanish )
 
 The directory presents the following structure:
 
