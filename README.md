@@ -82,3 +82,11 @@ Execute in the `BlurMPI` folder:
 ```bash
 ./run.sh $THREADS $IMG $OUTPUT_FILE $KERNEL
 ```
+
+## Sample
+
+![alt text](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Results/sample_image_input.jpeg)
+
+Here we can observe a sample, obtained when applied the gaussian blur filter with a kernel of size 7 to a 720px image
+
+![alt text](https://github.com/joacarrilloco/ParallelComputingLabs/blob/develop/Results/sample_image_output.jpeg)
